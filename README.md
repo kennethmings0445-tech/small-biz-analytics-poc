@@ -11,7 +11,7 @@ This project demonstrates the transition of a niche retailer, **Terry’s Trouse
 ## 2. The Problem 
 Standard retail reporting often suffers from **Operational Blindness**. In analyzing the Terry's Trousers dataset, I identified three critical friction points:
 * **Data Silos:** Revenue and session data were trapped in spreadsheets without actionable context.
-* **Context Gaps:** Raw numbers  total revenue of $127,282.20 failed to explain the *velocity* of specific channels.
+* **Context Gaps:** Raw numbers:  total revenue of $127,282.20 failed to explain the *velocity* of specific channels.
 * **Resource Misalignment:** Identifying that high-intent traffic Email/Direct was being under-leveraged compared to low-intent discovery traffic (Social).
 
 ## 3. The Technical Solution 
